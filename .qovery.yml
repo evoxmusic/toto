@@ -1,0 +1,10 @@
+qovery:
+  key: jtme9xokl7cc63cp/shhv3tlfpf53h57o/thtfhh8yyxdv5ixw
+application:
+  name: toto
+  project: blabla
+  publicly_accessible: true
+databases:
+- type: postgresql
+  version: "11.5"
+  name: my-pql
